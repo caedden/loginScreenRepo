@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://caedden.github.io/seu-repositorio",
+  "homepage": "https://caedden.github.io/LoginScreenTest",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "axios": "^1.6.7",
